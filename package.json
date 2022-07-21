@@ -83,7 +83,7 @@
     ]
   },
   "license": "MIT",
-  "name": "react_18_boilerplate",
+  "name": "react-food-delivery",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
